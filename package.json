@@ -45,12 +45,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-bugsnag.git"
+    "url": "git+https://github.com/eggjs-community/egg-bugsnag.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/eggjs-community/egg-bugsnag/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-bugsnag#readme",
+  "homepage": "https://github.com/eggjs-community/egg-bugsnag#readme",
   "author": "duncup",
   "license": "MIT"
 }
