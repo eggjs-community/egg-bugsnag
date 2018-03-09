@@ -38,7 +38,7 @@ exports.bugsnag = {
 };
 // {app_root}/app/controller/test.js
 exports.list = function* () {
-  this.body = yield this.appapp.bugsnag.notify(new Error('Test error'), 
+  this.body = yield this.app.bugsnag.notify(new Error('Test error'), 
   function(error, response) {
   
   });
