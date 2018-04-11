@@ -1,6 +1,6 @@
 {
   "name": "egg-bugsnag",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "bugsnag plugin for egg.js",
   "eggPlugin": {
     "name": "bugsnag"
