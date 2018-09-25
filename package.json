@@ -38,7 +38,8 @@
   },
   "files": [
     "app",
-    "config"
+    "config",
+    "index.d.ts"
   ],
   "ci": {
     "version": "8, 9"
